@@ -16,10 +16,10 @@ After entering the item id and unit amount the output will print ou the verifica
 
 
 Beinging Selection:
-![Results](/screenShots/start.PNG)
+![Results](/screenshots/start.PNG)
 
 Selection ScreenShot:
-![Results](/screenShots/bought_item.PNG)
+![Results](/screenshots/bought_item.PNG)
 
 Exit Selection:
-![Results](/screenShots/exit.PNG)
+![Results](/screenshots/exit.PNG)
